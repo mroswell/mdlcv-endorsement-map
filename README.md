@@ -1,4 +1,4 @@
 # mdlcv-endorsement-map
 Leaflet application
 
-http://github.io/mroswell/mdlcv-endorsement-map
+http://mroswell.github.io/mdlcv-endorsement-map
